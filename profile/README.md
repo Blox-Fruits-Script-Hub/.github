@@ -11,11 +11,11 @@
 
 | Repository | Description |
 |------------|-------------|
-| [Auto Farm Script](https://github.com/YOUR-ORG/blox-fruits-auto-farm-script) | Fast, reliable auto farming with configurable attack modes |
-| [Teleport Hack](https://github.com/YOUR-ORG/blox-fruits-teleport-hack) | Teleport to any island or NPC instantly |
-| [Boss Finder Tool](https://github.com/YOUR-ORG/blox-fruits-boss-finder) | Real-time ESP for bosses, with auto-lock and HP tracking |
-| [Infinite Energy Script](https://github.com/YOUR-ORG/blox-fruits-infinite-energy) | Dash forever, never run out of stamina |
-| [Universal GUI](https://github.com/YOUR-ORG/blox-fruits-universal-gui) | All-in-one script with toggleable tabs and performance boost |
+| [Auto Farm Script](https://github.com/Blox-Fruits-Script-Hub/.github/blob/main/profile/README_Auto_Farm.md) | Fast, reliable auto farming with configurable attack modes |
+| [Teleport Hack](https://github.com/Blox-Fruits-Script-Hub/.github/blob/main/profile/README_Teleport_Hack.md) | Teleport to any island or NPC instantly |
+| [Boss Finder Tool](https://github.com/Blox-Fruits-Script-Hub/.github/blob/main/profile/README_Boss_Finder.md) | Real-time ESP for bosses, with auto-lock and HP tracking |
+| [Infinite Energy Script](https://github.com/Blox-Fruits-Script-Hub/.github/blob/main/profile/README_Infinite_Energy.md) | Dash forever, never run out of stamina |
+| [Universal GUI](https://github.com/Blox-Fruits-Script-Hub/.github/blob/main/profile/README_Universal_GUI.md) | All-in-one script with toggleable tabs and performance boost |
 
 ---
 
